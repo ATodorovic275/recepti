@@ -1,0 +1,11 @@
+SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens	08.06.2019 22:10:30
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'recepti.korisni' doesn't exist	08.06.2019 22:10:55
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.id_vreme_priprem' in 'on clause'	08.06.2019 22:18:40
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'r.id_vreme_priprem' in 'on clause'	08.06.2019 22:18:43
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'recepti.korisni' doesn't exist	08.06.2019 22:22:42
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'	12.06.2019 17:38:59
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'	12.06.2019 17:39:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id_kategorije = ''' at line 1	12.06.2019 18:01:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id_kategorije = ''' at line 1	12.06.2019 18:02:03
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'sifr' in 'field list'	13.06.2019 19:37:22
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'uloga' in 'field list'	13.06.2019 19:37:57
