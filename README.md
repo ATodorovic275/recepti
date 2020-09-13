@@ -1,5 +1,5 @@
 # Recepti - website 
-# recepti123.epizy.com
+# (recepti123.epizy.com)
 Website with cooking recipes.  
 In this project focus is on code organization and structures of folders and files
 # Functionality:
