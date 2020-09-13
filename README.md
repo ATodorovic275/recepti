@@ -1,5 +1,5 @@
 # Recepti - website 
-# [see project](recepti123.epizy.com)
+
 Website with cooking recipes.  
 In this project focus is on code organization and structures of folders and files
 # Functionality:
@@ -17,3 +17,6 @@ In this project focus is on code organization and structures of folders and file
   - Sql
   - Html
   - Css
+
+
+# [see project](recepti123.epizy.com)
