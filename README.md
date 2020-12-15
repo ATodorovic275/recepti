@@ -2,7 +2,7 @@
 
 Website with cooking recipes.  
 In this project focus is on code organization and structures of folders and files
-# Functionality:
+# Functionalities:
   - registration and login 
   - user can uploud recipe
   - pagination, filter and sort functionality
